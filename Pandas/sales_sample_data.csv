@@ -1,0 +1,31 @@
+﻿Order_ID,Order_Date,Region,City,Category,Product,Sales_Channel,Quantity,Unit_Price_INR,Sales_Amount_INR,Tax_8_Percent_INR
+1001,2026-01-03,North,Delhi,Electronics,Laptop,Online,2,55000,110000,8800
+1002,2026-01-04,West,Mumbai,Furniture,Office Chair,Retail,5,6500,32500,2600
+1003,2026-01-05,South,Bengaluru,Accessories,Wireless Mouse,Online,12,850,10200,816
+1004,2026-01-06,North,Jaipur,Office Supplies,Notebook Pack,Wholesale,20,120,2400,192
+1005,2026-01-08,East,Kolkata,Electronics,Monitor,Retail,4,12500,50000,4000
+1006,2026-01-10,West,Pune,Furniture,Study Desk,Online,3,9000,27000,2160
+1007,2026-01-12,South,Chennai,Accessories,Keyboard,Retail,8,1400,11200,896
+1008,2026-01-14,North,Gurugram,Electronics,Headphones,Online,6,2200,13200,1056
+1009,2026-01-16,East,Bhubaneswar,Office Supplies,Printer Paper Box,Wholesale,10,450,4500,360
+1010,2026-01-18,West,Ahmedabad,Electronics,Printer,Retail,2,18000,36000,2880
+1011,2026-01-20,North,Delhi,Accessories,USB-C Hub,Online,7,1800,12600,1008
+1012,2026-01-22,South,Hyderabad,Furniture,Bookshelf,Retail,2,7500,15000,1200
+1013,2026-01-25,East,Patna,Office Supplies,Pen Set,Wholesale,30,90,2700,216
+1014,2026-01-27,West,Mumbai,Electronics,Tablet,Online,3,24000,72000,5760
+1015,2026-01-29,North,Jaipur,Furniture,Filing Cabinet,Retail,2,11000,22000,1760
+1016,2026-02-02,South,Bengaluru,Electronics,Webcam,Online,5,3200,16000,1280
+1017,2026-02-04,West,Pune,Accessories,Laptop Stand,Retail,6,1600,9600,768
+1018,2026-02-06,East,Kolkata,Furniture,Conference Table,Wholesale,1,28000,28000,2240
+1019,2026-02-08,North,Gurugram,Office Supplies,Sticky Notes Pack,Online,15,80,1200,96
+1020,2026-02-10,South,Chennai,Electronics,Smartphone,Retail,4,32000,128000,10240
+1021,2026-02-12,West,Ahmedabad,Furniture,Storage Rack,Online,3,4800,14400,1152
+1022,2026-02-14,East,Bhubaneswar,Accessories,Power Bank,Retail,9,1300,11700,936
+1023,2026-02-17,North,Delhi,Electronics,Projector,Wholesale,1,42000,42000,3360
+1024,2026-02-20,South,Hyderabad,Office Supplies,Marker Set,Online,18,250,4500,360
+1025,2026-02-23,West,Mumbai,Accessories,Bluetooth Speaker,Retail,5,2800,14000,1120
+1026,2026-02-25,North,Jaipur,Electronics,Keyboard,Online,10,1400,14000,1120
+1027,2026-02-27,East,Patna,Furniture,Folding Chair,Wholesale,8,1800,14400,1152
+1028,2026-03-02,South,Bengaluru,Accessories,External SSD,Online,3,8500,25500,2040
+1029,2026-03-05,West,Pune,Electronics,Router,Retail,4,3500,14000,1120
+1030,2026-03-08,North,Delhi,Office Supplies,Stapler Pack,Wholesale,12,300,3600,288
